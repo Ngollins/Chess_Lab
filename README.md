@@ -1,0 +1,1 @@
+Final system runs a simulated chess game based on specific input values. System will check if the given move is valid and it is the correct colors' turn, and will proceed with the action. Program utilizes inheritance to generate the chess pieces. 
